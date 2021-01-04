@@ -1,0 +1,60 @@
+video{
+	width: 100%;
+	height: auto;
+  }
+  video::-internal-media-controls-download-button{
+	display: none;
+  }
+.font_f{
+	font-family: 'Laila', serif;
+	background: #fdfdfd; padding: 5px; color: red; margin-top: 0px; margin-bottom: 0px; border-bottom-style: solid; border-bottom-color: black; border-width: 1px
+}
+#sec{
+	margin-top:25px;
+	margin-bottom: 25px;
+}
+
+#sec_tion{
+	list-style: none;
+	margin: 5px;
+}
+
+#sec_tion1{
+	margin-bottom: 50px;
+}
+#sec_2{
+	background-color: black;
+	padding: 50px;
+	margin-top: 0px;
+}
+#head_ing{
+	font-size: 40px;
+}
+#foot_er{
+	background-color: black;
+	color: white;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 5px;
+}
+#but_ton{
+	text-align: center;
+	background-color: black;
+	color: white; 
+	border-color: white; 
+	border-width: 4px; 
+	border-style: solid;
+	padding: 5px;
+}
+#foot_er{
+	color: white;
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#lin_k{
+	background-color: #D2E28A;
+	padding: 4px;
+	border-radius: 20%;
+}
